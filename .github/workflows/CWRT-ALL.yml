@@ -65,7 +65,7 @@ jobs:
       #默认主机名
       WRT_NAME: MWRT
       #默认WIFI名称
-      WRT_SSID: Moto_5G
+      WRT_SSID: Moto
       #默认WIFI密码
       WRT_WORD: arzin1122
       #默认地址
